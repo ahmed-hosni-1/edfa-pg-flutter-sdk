@@ -26,8 +26,8 @@ dependencies:
   flutter:
     sdk: flutter
   plugin_platform_interface: ^2.0.2
-  intl: ^0.17.0
-  collection: ^1.17.0
+  intl: 
+  collection: 
 
 dev_dependencies:
   flutter_test:
